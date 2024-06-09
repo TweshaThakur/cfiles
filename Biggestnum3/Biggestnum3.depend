@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677147031 source:e:\c codeb\biggestnum3\main.c
+	<stdio.h>
+	<stdlib.h>
+

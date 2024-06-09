@@ -1,0 +1,25 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    //declaration//
+    int number_to_test, remainder;
+
+    //code//
+    printf("Enter number u want to test: ");
+    scanf("%i", &number_to_test);
+
+    remainder=number_to_test%2;
+
+    if (remainder==0){
+        printf("The number is even.\n");
+    }
+
+    else{
+        printf("The number is odd.\n");
+    }
+
+
+    return 0;
+}

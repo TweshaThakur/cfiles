@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679640600 source:e:\c codeb\inputtask\main.c
+	<stdio.h>
+	<stdlib.h>
+

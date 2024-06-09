@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677824423 source:e:\c codeb\callbyref\main.c
+	<stdio.h>
+	<stdlib.h>
+

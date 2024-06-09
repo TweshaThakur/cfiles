@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676643137 source:e:\c codeb\weeklypay\main.c
+	<stdio.h>
+	<stdlib.h>
+

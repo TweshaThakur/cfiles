@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1674794652 source:e:\c codeb\evenoddnum\main.c
+	<stdio.h>
+	<stdlib.h>
+

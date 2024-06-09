@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680167843 source:e:\c codeb\opsarrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

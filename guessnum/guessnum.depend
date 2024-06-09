@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676648814 source:e:\c codeb\guessnum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
